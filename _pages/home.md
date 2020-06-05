@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Molecular Helminthology - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Molecular helminthology Lab @ ISCIII."
 sitemap: false
 permalink: /
 ---
