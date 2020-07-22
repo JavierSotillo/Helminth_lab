@@ -7,7 +7,7 @@
 <div class="row">
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/images/teampic/Chus.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <p><img src="http://localhost:4000/images/teampic/Chus.png" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Chus Perteguer</h4>
     <p><i>Head Scientist<br />email: <a href="mailto:chus.perteguer@isciii.es">chus.perteguer@isciii.es</a></i></p>
     <ul style="overflow: hidden">
