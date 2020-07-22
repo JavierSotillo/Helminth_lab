@@ -1,253 +1,394 @@
-- title: "A strongly inhomogeneous superfluid in an iron-based superconductor"
-  image: STS_news.png
-  description: We succeeded in measuring the superfluid density with atomic resolution on an unconventional superconductor! In contrast to expectations for conventional superconductors, we find that the superfluid densisty is strongly inhomogeneous in FeTe0.55Se0.45.
-  authors: D Cho* & KM Bastiaans* & D Chatzopoulos*, GD Gu, MP Allan
+- title: "Comprehensive analysis of the secreted proteome of adult <i>Necator americanus</i> hookworms"
+  image: Logan.png
+  description: In collaboration with researchers from James Cook University (Australia), US and Brazil, we have re-annotated the genome from the human hookworm Necator americanus, 
+  authors: Logan J, Pearson MS, Manda SS, Choi YJ, Field M, Eichenberger RM, Mulvenna J, Nagaraj SH, Fujiwara RT, Gazzinelli-Guimaraes P, Bueno L, Mati V, Bethony JM, Mitreva M, Sotillo J*, Loukas A*.
   link:
-    url: https://www.nature.com/articles/s41586-019-1408-8
-    display:  Nature 571, 541 (2019)
+    url: https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0008237
+    display: PLoS Negl Trop Dis. 2020 May 26;14(5):e0008237
   highlight: 1
   news2:
 
-- title: "Imaging doubled shot noise in a Josephson scanning tunneling microscope"
-  image: PbSpub.png
-  description: We have imaged the doubling of the current noise due to Andreev reflections in a Josephson scanning tunneling microscope.
-  authors: KM Bastiaans, D Cho, D Chatzopoulos, M Leeuwenhoek, C Koks, MP Allan
+- title: "First Evidence of Antibodies Against Lloviu Virus in Schreiber's Bent-Winged Insectivorous Bats Demonstrate a Wide Circulation of the Virus in Spain"
+  image: Ramirez.png
+  description: We have collaborated with other researchers from ISCIII in the analysis of antibodies against Lloviu virus in bats showing its wide circulation
+  authors: Ramírez de Arellano E, Sanchez-Lockhart M, Perteguer MJ, Bartlett M, Ortiz M, Campioli P, Hernández A, Gonzalez J, Garcia K, Ramos M, Jiménez-Clavero MÁ, Tenorio A, Sánchez-Seco MP, González F, Echevarría JE, Palacios G, Negredo A.
   link:
-    url: https://arxiv.org/abs/1907.05808
-    display:  arxiv:1907.05808
+    url: https://www.mdpi.com/1999-4915/11/4/360
+    display: Viruses. 2019 Apr 19;11(4):360
   highlight: 1
   news2:
 
-- title: "Definition of design guidelines, construction and performance of an ultra-stable scanning tunneling microscope for spectroscopic imaging"
-  image: DomePub.png
-  description: Our first completely home-built STM is alive! And it has the world’s highest resonance frequency.
-  authors: I Battisti, G Verdoes, K van Oosten, KM Bastiaans, and MP Allan
+- title: "Liver fluke granulin promotes extracellular vesicle-mediated crosstalk and cellular microenvironment conducive to cholangiocarcinoma"
+  description: 
+  authors: Arunsan P, Chaidee A, Cochran CJ, Mann VH, Tanno T, Kumkhaek C, Smout MJ, Karinshak SE, Rodpai R, Sotillo J, Loukas A, Laha T, Brindley PJ, Ittiprasert W.
   link:
-    url: https://aip.scitation.org/doi/10.1063/1.5064442
-    display:  Rev. Sci. Instrum. 89, 123705 (2018)
-  highlight: 1
-  news2:
-
-- title: "Charge trapping and super-Poissonian noise centres in a cuprate superconductor"
-  image: Pub_BCl.png
-  description: Using our newly developed noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor.
-  authors: KM Bastiaans* & D Cho*, T Benschop, I Battisti, Y Huang, MS Golden, Q Dong, Y Jin, J Zaanen, MP Allan
-  link:
-    url: https://www.nature.com/articles/s41567-018-0300-z
-    display:  Nature Physics 14, 1183 (2018)
-  highlight: 1
-  news1: <a href="https://aip.scitation.org/doi/10.1063/1.5043267">Instrument details in Rev. Sci. Instrum. 89, 093709 (2018)</a>
-  news2: See also <a href="http://www.quantumuniverse.nl/een-isolerende-supergeleider"> quantum universe </a> (in dutch), <a href="https://phys.org/news/2018-10-mysterious-insulating-phenomenon-superconductor.html"> Phys.org </a>, <a href="https://www.universiteitleiden.nl/en/news/2018/10/insulating-phenomenon-in-superconductor"> Leiden University news</a>, <a href="http://iop.uva.nl/content/news/2018/10/noise-helps-physicists-discover-insulating-phenomenon-in-superconductor.html"> UvA news<a>.
-
-- title: "Amplifier for scanning tunneling microscopy at MHz frequencies"
-  image: Fano.png
-  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: KM Bastiaans, T Benschop, D Chatzopoulos, D Cho, Q Dong, Y Jin, MP Allan
-  link:
-    url: https://aip.scitation.org/doi/10.1063/1.5043267
-    display:  Rev. Sci. Instrum. 89, 093709 (2018)
+    url: https://www.sciencedirect.com/science/article/pii/S1476558620300221
+    display: Neoplasia. 2020 May;22(5):203-216
   highlight: 0
   news2:
-
-- title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
-  image: SmartPub.png
-  description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
-  authors: M Leeuwenhoek,  RA Norte, KM Bastiaans, Doohee Cho, I Battisti, YaM Blanter, S Gröblacher, MP Allan
+  
+- title: "Hookworms Evade Host Immunity by Secreting a Deoxyribonuclease to Degrade Neutrophil Extracellular Traps"
+  image: Bouchery.jpg
+  description: Great collaboration with the Harris Lab (Australia) showing how hoowkorms secrete a deoxyribonuclease that degrades NETs facilitating its migration and establishment in the host,
+  authors: Bouchery T, Moyat M, Sotillo J, Silverstein S, Volpe B, Coakley G, Tsourouktsoglou TD, Becker L, Shah K, Kulagin M, Guiet R, Camberis M, Schmidt A, Seitz A, Giacomin P, Le Gros G, Papayannopoulos V, Loukas A, Harris NL.
   link:
-    url: https://iopscience.iop.org/article/10.1088/1361-6528/ab1c7f/pdf
-    display: Nanotechnology 30, 335702 (2019)
+    url: https://www.sciencedirect.com/science/article/pii/S1931312820300500
+    display: Cell Host Microbe. 2020 Feb 12;27(2):277-289.e6.
   highlight: 1
   news2:
+  
+- title: "Proteomic analysis of two populations of <i>Schistosoma mansoni</i>-derived extracellular vesicles: 15k pellet and 120k pellet vesicles"
+  description: 
+  authors: Kifle DW, Pearson MS, Becker L, Pickering D, Loukas A, Sotillo J.
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0166685119301574
+    display: Mol Biochem Parasitol. 2020 Mar;236:111264
+  highlight: 0
+  news2:
+  
+- title: Partial protection with a chimeric tetraspanin-leucine aminopeptidase subunit vaccine against <i>Opisthorchis viverrini</i> infection in hamsters.
+  description: 
+  authors: Thi Phung L, Chaiyadet S, Hongsrichan N, Sotillo J, Dinh Thi Dieu H, Quang Tran C, Brindley PJ, Loukas A, Laha T.
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0001706X19313233?via%3Dihub
+    display: Acta Trop. 2020 Apr;204:105355.
+  highlight: 
+  news2:
+  
+- title: Set up of an in vitro model to study early host-parasite interactions between newly excysted juveniles of <i>Fasciola hepatica</i> and host intestinal cells using a quantitative proteomics approach.
+  description: 
+  authors: González-Miguel J, Becerro-Recio D, Sotillo J, Simón F, Siles-Lucas M.
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S030440172030008X
+    display: Vet Parasitol. 2020 Feb;278:109028.
+  highlight: 0
+  news2:
+  
+- title: In-plate recapturing of a dual-tagged recombinant Fasciola antigen (FhLAP) by a monoclonal antibody (US9) prevents non-specific binding in ELISA.
+  description: 
+  authors: Orbegozo-Medina RA, Martínez-Sernández V, Perteguer MJ, Hernández-González A, Mezo M, González-Warleta M, Romarís F, Paniagua E, Gárate T, Ubeira FM.
+  link:
+    url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0211035
+    display: PLoS One. 2019 Feb 1;14(2):e0211035
+  highlight: 0
+  news2:
+  
+- title: "Antibody responses to chimeric peptides derived from parasite antigens in mice and other animal species"
+  description: 
+  authors: Orbegozo-Medina RA, Martínez-Sernández V, Folgueira I, Mezo M, González-Warleta M, Perteguer MJ, Romarís F, Leiro JM, Ubeira FM.
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S016158901830573X
+    display: Mol Immunol. 2019 Feb;106:1-11
+  highlight: 0
+  news2:
+  
+- title: "Epidemiological Scenario of Anisakidosis in Spain Based on Associated Hospitalizations: The Tip of the Iceberg"
+  description: 
+  authors: Herrador Z, Daschner Á, Perteguer MJ, Benito A.
+  link:
+    url: https://academic.oup.com/cid/article/69/1/69/5114397
+    display: Clin Infect Dis. 2019 Jun 18;69(1):69-76
+  highlight: 0
+  news2:
+  
+- title: "Interruption of onchocerciasis transmission in Bioko Island: Accelerating the movement from control to elimination in Equatorial Guinea"
+  description: 
+  authors: Herrador Z, Garcia B, Ncogo P, Perteguer MJ, Rubio JM, Rivas E, Cimas M, Ordoñez G, de Pablos S, Hernández-González A, Nguema R, Moya L, Romay-Barja M, Garate T, Barbre K, Benito A.
+  link:
+    url: https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0006471
+    display: PLoS Negl Trop Dis. 2018 May 3;12(5):e0006471
+  highlight: 0
+  news2:
+  
+- title: Comparison of recombinant cathepsins L1, L2, and L5 as ELISA targets for serodiagnosis of bovine and ovine fascioliasis.
+  description: 
+  authors: Martínez-Sernández V, Perteguer MJ, Hernández-González A, Mezo M, González-Warleta M, Orbegozo-Medina RA, Romarís F, Paniagua E, Gárate T, Ubeira FM.
+  link:
+    url: https://link.springer.com/article/10.1007%2Fs00436-018-5809-7
+    display: Parasitol Res. 2018 May;117(5):1521-1534.
+  highlight: 0
+  news2:
+  
+- title: "HDP2: a ribosomal DNA (NTS-ETS) sequence as a target for species-specific molecular diagnosis of intestinal taeniasis in humans"
+  description: 
+  authors: Flores MD, Gonzalez LM, Hurtado C, Motta YM, Domínguez-Hidalgo C, Merino FJ, Perteguer MJ, Gárate T.
+  link:
+    url: https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-018-2646-6
+    display: Parasit Vectors. 2018 Feb 27;11(1):117.
+  highlight: 0
+  news2:
+  
+- title: Novel cholinesterase paralogs of <i>Schistosoma mansoni</i> have perceived roles in cholinergic signalling and drug detoxification and are essential for parasite survival.
+  description: 
+  authors: Tedla BA, Sotillo J, Pickering D, Eichenberger RM, Ryan S, Becker L, Loukas A, Pearson MS.
+  link:
+    url: https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008213
+    display: PLoS Pathog. 2019 Dec 6;15(12):e1008213.
+  highlight: 0
+  news2:
+  
+- title: Recombinant <i>Opisthorchis viverrini</i> tetraspanin expressed in Pichia pastoris as a potential vaccine candidate for opisthorchiasis.
+  description: 
+  authors: Phung LT, Chaiyadet S, Hongsrichan N, Sotillo J, Dieu HDT, Tran CQ, Brindley PJ, Loukas A, Laha T.
+  link:
+    url: https://link.springer.com/article/10.1007/s00436-019-06488-3
+    display: Parasitol Res. 2019 Dec;118(12):3419-3427
+  highlight: 0
+  news2:
+  
+- title: Recent advances on the immunobiology of <i>Bithynia</i> spp. hosts of <i>Opisthorchis viverrini</i>
+  description: 
+  authors: Suwannatrai K, Suwannatrai AT, Loukas A, Sotillo J. 
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0145305X19300618
+    display: Dev Comp Immunol. 2020 Jan;102:103460.
+  highlight: 0
+  news2:
+  
+- title: Trematode Genomics and Proteomics.
+  description: 
+  authors: Sotillo J, Pearson MS, Loukas A.
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-030-18616-6_13
+    display: Adv Exp Med Biol. 2019;1154:411-436.
+  highlight: 0
+  news2:
+  
+- title: Vaccination of hamsters with <i>Opisthorchis viverrini</i> extracellular vesicles and vesicle-derived recombinant tetraspanins induces antibodies that block vesicle uptake by cholangiocytes and reduce parasite burden after challenge infection.
+  description: 
+  authors: haiyadet S, Sotillo J, Krueajampa W, Thongsen S, Brindley PJ, Sripa B, Loukas A, Laha T.
+  link:
+    url: https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0007450
+    display: PLoS Negl Trop Dis. 2019 May 28;13(5):e0007450.
+  highlight: 0
+  news2:
+  
+- title: "In-depth proteomic characterization of <i>Schistosoma haematobium</i>: Towards the development of new tools for elimination"
+  description: 
+  authors: Sotillo J, Pearson MS, Becker L, Mekonnen GG, Amoah AS, van Dam G, Corstjens PLAM, Murray J, Mduluza T, Mutapi F, Loukas A.
+  link:
+    url: https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0007362
+    display: PLoS Negl Trop Dis. 2019 May 15;13(5):e0007362.
+  highlight: 0
+  news2:
+  
+- title: Programmed knockout mutation of liver fluke granulin attenuates virulence of infection-induced hepatobiliary morbidity
+  description: 
+  authors: Arunsan P, Ittiprasert W, Smout MJ, Cochran CJ, Mann VH, Chaiyadet S, Karinshak SE, Sripa B, Young ND, Sotillo J, Loukas A, Brindley PJ, Laha T.
+  link:
+    url: https://elifesciences.org/articles/41463
+    display: Elife. 2019 Jan 15;8:e41463.
+  highlight: 0
+  news2:
+  
+- title: "Minimal information for studies of extracellular vesicles 2018 (MISEV2018): a position statement of the International Society for Extracellular Vesicles and update of the MISEV2014 guidelines"
+  description: 
+  authors: Théry C, Witwer KW, Aikawa E, <i> et al.</i>
+  link:
+    url: https://www.tandfonline.com/doi/full/10.1080/20013078.2018.1535750
+    display: J Extracell Vesicles. 2018 Nov 23;7(1):1535750.
+  highlight: 0
+  news2:
+  
+- title: <i>Opisthorchis viverrini</i> Proteome and Host-Parasite Interactions.
+  description: 
+  authors: Suttiprapa S, Sotillo J, Smout M, Suyapoh W, Chaiyadet S, Tripathi T, Laha T, Loukas A.
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0065308X18300502?via%3Dihub
+    display: Adv Parasitol. 2018;102:45-72.
+  highlight: 
+  news2:
+  
+- title: Structural Variants of a Liver Fluke Derived Granulin Peptide Potently Stimulate Wound Healing
+  description: 
+  authors: Dastpeyman M, Bansal PS, Wilson D, Sotillo J, Brindley PJ, Loukas A, Smout MJ, Daly NL.
+  link:
+    url: https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00898
+    display: J Med Chem. 2018 Oct 11;61(19):8746-8753.
+  highlight: 0
+  news2:
+  
+- title: Immunobiology of parasitic worm extracellular vesicles
+  description: 
+  authors: Eichenberger RM, Sotillo J, Loukas A.
+  link:
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1111/imcb.12171
+    display: Immunol Cell Biol. 2018 May 29.
+  highlight: 0
+  news2:
+  
+- title: Hookworm Secreted Extracellular Vesicles Interact With Host Cells and Prevent Inducible Colitis in Mice.
+  description: 
+  authors: Eichenberger RM, Ryan S, Jones L, Buitrago G, Polster R, Montes de Oca M, Zuvelek J, Giacomin PR, Dent LA, Engwerda C, Field M, Sotillo J, Loukas A.
+  link:
+    url: https://www.frontiersin.org/articles/10.3389/fimmu.2018.00850/full
+    display: Front Immunol. 2018 Apr 30;9:850
+  highlight: 0
+  news2:
+  
+- title: The NLRP3 Inflammasome Suppresses Protective Immunity to Gastrointestinal Helminth Infection.
+  description: 
+  authors: Alhallaf R, Agha Z, Miller CM, Robertson AAB, Sotillo J, Croese J, Cooper MA, Masters SL, Kupz A, Smith NC, Loukas A, Giacomin PR.
+  link:
+    url: https://www.cell.com/cell-reports/pdf/S2211-1247(18)30473-X.pdf?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS221112471830473X%3Fshowall%3Dtrue
+    display: Cell Rep. 2018 Apr 24;23(4):1085-1098
+  highlight: 0
+  news2:
+  
+- title: Adaptation of the secretome of <i>Echinostoma caproni</i> may contribute to parasite survival in a Th1 milieu.
+  description: 
+  authors: Cortés A, Muñoz-Antolí C, Álvarez-Izquierdo M, Sotillo J, Esteban JG, Toledo R.
+  link:
+    url: https://link.springer.com/article/10.1007%2Fs00436-018-5758-1
+    display: Parasitol Res. 2018 Apr;117(4):947-957.
+  highlight: 0
+  news2:
+  
+- title: Characterization of <i>Trichuris muris</i> secreted proteins and extracellular vesicles provides new insights into host-parasite communication.
+  description: 
+  authors: Eichenberger RM, Talukder MH, Field MA, Wangchuk P, Giacomin P, Loukas A, Sotillo J.
+  link:
+    url: https://www.tandfonline.com/doi/full/10.1080/20013078.2018.1428004
+    display: J Extracell Vesicles. 2018 Jan 21;7(1):1428004.
+  highlight: 0
+  news2:
+  
+- title: Extracellular vesicles from parasitic helminths and their potential utility as vaccines
+  description: 
+  authors: Mekonnen GG, Pearson M, Loukas A, Sotillo J. 
+  link:
+    url: https://www.tandfonline.com/doi/full/10.1080/14760584.2018.1431125
+    display: Expert Rev Vaccines. 2018 Mar;17(3):197-205.
+  highlight: 0
+  news2:
+  
+- title: "<i>Fasciola</i> spp: Mapping of the MF6 epitope and antigenic analysis of the MF6p/HDM family of heme-binding proteins"
+  description: 
+  authors: Martínez-Sernández V, Perteguer MJ, Mezo M, González-Warleta M, Gárate T, Valero MA, Ubeira FM.
+  link:
+    url: https://journals.plos.org/plosone/article/comments?id=10.1371/journal.pone.0188520
+    display: PLoS One. 2017 Nov 21;12(11):e0188520.
+  highlight: 0
+  news2:
+  
+- title: "Recombinant vs native Anisakis haemoglobin (Ani s 13): Its appraisal as a new gold standard for the diagnosis of allergy"
+  description: 
+  authors: González-Fernández J, Rivas L, Luque-Ortega JR, Núñez-Ramírez R, Campioli P, Gárate T, Perteguer MJ, Daschner A, Cuéllar C.
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0014489417304654?via%3Dihub
+    display: Exp Parasitol. 2017 Oct;181:119-129.
+  highlight: 0
+  news2:
+  
+- title: Present status of laboratory diagnosis of human taeniosis/cysticercosis in Europe.
+  description: 
+  authors: Gómez-Morales MA, Gárate T, Blocher J, Devleesschauwer B, Smit GSA, Schmidt V, Perteguer MJ, Ludovisi A, Pozio E, Dorny P, Gabriël S, Winkler AS.
+  link:
+    url: https://link.springer.com/article/10.1007/s10096-017-3029-1
+    display: Eur J Clin Microbiol Infect Dis. 2017 Nov;36(11):2029-2040.
+  highlight: 0
+  news2:
+  
+- title: Comparison of T24H-his, GST-T24H and GST-Ts8B2 recombinant antigens in western blot, ELISA and multiplex bead-based assay for diagnosis of neurocysticercosis.
+  image: Hernandez.gif
+  description: First approach showing the usefulness of these antigens in the diagnostic of neurocysticercosis (NCC) and other diseases, and a first step towars the generation of poin-of-care tests against NCC.
+  authors: Hernández-González A, Noh J, Perteguer MJ, Gárate T, Handali S.
+  link: 
+    url: https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-017-2160-2
+    display: Parasit Vectors. 2017 May 15;10(1):237.
+  highlight: 1
+  news1: 
+  news2: 
+ 
+- title: Delineating distinct heme-scavenging and -binding functions of domains in MF6p/helminth defense molecule (HDM) proteins from parasitic flatworms.
+  image: 
+  description:
+  authors: Martínez-Sernández V, Mezo M, González-Warleta M, Perteguer MJ, Gárate T, Romarís F, Ubeira FM.
+  link:
+    url: https://www.jbc.org/content/292/21/8667.long
+    display: J Biol Chem. 2017 May 26;292(21):8667-8682.
+  highlight: 0
+  news1: 
+  news2: 
+  
+- title: Evaluation of onchocerciasis seroprevalence in Bioko Island (Equatorial Guinea) after years of disease control programmes.
+  image: 
+  description:
+  authors: Hernández-González A, Moya L, Perteguer MJ, Herrador Z, Nguema R, Nguema J, Aparicio P, Benito A, Gárate T.
+  link:
+    url: https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-016-1779-8
+    display: Parasit Vectors. 2016 Sep 20;9(1):509
+  highlight: 0
+  news1: 
+  news2: 
 
-- title: "Revisiting quasiparticle scattering interference in high-temperature superconductors: the problem of narrow peaks"
-  image: dummy.png
+- title: Evidence for Suppression of Onchocerciasis Transmission in Bioko Island, Equatorial Guinea
+  image: 
+  description:
+  authors: Moya L, Herrador Z, Ta-Tang TH, Rubio JM, Perteguer MJ, Hernandez-González A, García B, Nguema R, Nguema J, Ncogo P, Garate T, Benito A, Sima A, Aparicio P.
+  link:
+    url: https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004829
+    display: PLoS Negl Trop Dis. 2016 Jul 22;10(7):e0004829.
+  highlight: 0
+  news1: 
+  news2: 
+
+- title: "ANISERP: a new serpin from the parasite <i>Anisakis simplex</i>"
+  image: 
+  description:
+  authors: Valdivieso E, Perteguer MJ, Hurtado C, Campioli P, Rodríguez E, Saborido A, Martínez-Sernández V, Gómez-Puertas P, Ubeira FM, Gárate T.
+  link:
+    url: https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-1006-z
+    display: Parasit Vectors. 2015 Jul 28;8:399.
+  highlight: 0
+  news1: 
+  news2: 
+
+- title: The MF6p/FhHDM-1 major antigen secreted by the trematode parasite <i>Fasciola hepatica</i> is a heme-binding protein.
+  image: 
+  description:
+  authors: Martínez-Sernández V, Mezo M, González-Warleta M, Perteguer MJ, Muiño L, Guitián E, Gárate T, Ubeira FM.
+  link:
+    url: https://www.jbc.org/content/289/3/1441
+    display: J Biol Chem. 2014 Jan 17;289(3):1441-56
+  highlight: 0
+  news1: 
+  news2: 
+
+- title: Analysis of an expressed sequence tag library from <i>Dicrocoelium dentriticum</i>
+  image: 
+  description:
+  authors: Martínez-Ibeas AM, Perteguer MJ, González-Lanza C, Gárate T, Manga-González MY.
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0014489413001914?via%3Dihub
+    display: Exp Parasitol. 2013 Oct;135(2):287-96.
+  highlight: 0
+
+- title: Ddi1-like protein from Leishmania major is an active aspartyl proteinase.
+  image: 
+  description:
+    
+  authors:
+    Perteguer MJ, Gómez-Puertas P, Cañavate C, Dagger F, Gárate T, Valdivieso E.
+  link:
+    url: http://bioweb.cbm.uam.es/articles/cellstresschaperones18_2013.pdf
+    display: Cell Stress Chaperones. 2013 Mar;18(2):171-81
+  highlight: 0
+
+- title: "Assessing the validity of an ELISA test for the serological diagnosis of human fascioliasis in different epidemiological situations"
+  image: 
+  description:
+  authors: Valero MA, Periago MV, Pérez-Crespo I, Rodríguez E, Perteguer MJ, Gárate T, González-Barberá EM, Mas-Coma S
+  link:
+    url: https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-3156.2012.02964.x
+    display: Trop Med Int Health. 2012 May;17(5):630-6.
+  highlight: 0
+
+- title: "Development and evaluation of a new lateral flow immunoassay for serodiagnosis of human fasciolosis"
+  image: 
   description: ""
-  authors: MA Sulangi, MP Allan, J Zaanen
+  authors: Martínez-Sernández V, Muiño L, Perteguer MJ, Gárate T, Mezo M, González-Warleta M, Muro A, Correia da Costa JM, Romarís F, Ubeira FM.
   link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.134507
-    display:  PRB 96, 134507 (2017)
-  highlight: 0
-  news2: Coverd in Superconductor Week, November 30, 2017 Vol. 31, No. 10
-
-- title: Robust procedure for creating and characterizing the atomic structure of scanning tunneling microscope tips
-  image: dummy.png
-  description: ""
-  authors: S Tewari, KM Bastiaans, MP Allan, JM van Ruitenbeek
-  link:
-    url: http://www.beilstein-journals.org/bjnano/content/pdf/2190-4286-8-238.pdf
-    display:  Beilstein J. Nanotechnol. 8, 2389 (2017)
-  highlight: 0
-  news2:
-
-- title: Creating better superconductors by periodic nanopatterning
-  image: SCAUweb.jpg
-  description:
-    We  propose  an approach to transform a ‘pristine’ material into a better (meta-) superconductor by making use of modern fabrication techniques -- designing and engineering the electronic properties of thin films via periodic patterning on the nanoscale.
-  authors:
-    MP Allan, MH Fischer, O Ostojic, A Andringa
-  link:
-    url: https://scipost.org/SciPostPhys.3.2.010/pdf
-    display: SciPost Phys. 3, 010 (2017)
-  highlight: 1
-
-- title: Poor electronic screening in lightly doped Mott insulators observed with scanning tunneling microscopy
-  image: TIBB.png
-  description:
-    We develop a simple model to interpret STM results on lightly doped Mott insulators, and find that the effective Mott gap measured by STM correspons to the one measured with other techniques when taking into account the poor electronic screeing.
-  authors:
-    I Battisti, V Fedoseev, KM Bastiaans, A de la Torre, RS Perry, F Baumberger, MP Allan
-  link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.95.235141
-    display: Phys. Rev. B 95, 235141, Editors' suggestion (2017)
-  highlight: 0
-
-- title: Universality of pseudo gap and emergent order in lightly doped Mott insulators
-  image: Mott_phase_sep.jpg
-  description:
-    We discover of electronic order, pseudo gap phase separation and an impurity-band Mott transition in an iridate compound, cuprate-style. Along the way, we gained unique knowledge on how a Mott state collapses.
-  authors:
-    I. Battisti* & K.M. Bastiaans*, V. Fedoseev, A. de la Torre, N. Iliopoulos, A. Tamai, E.C. Hunter, R.S. Perry, J. Zaanen, F. Baumberger, M.P. Allan
-  link:
-    url: http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys3894.html
-    display: Nature Physics 13, 21 (2017)
-  highlight: 1
-  news2: See also <a href="https://www.universiteitleiden.nl/en/news/2016/09/melting-of-frozen-electrons-visualized"> Leiden University news </a> by Erik Arends, <a href="http://phys.org/news/2016-09-frozen-electrons-visualized.html"> Phys.org </a>
-
-- title: Identifying the fingerprint of antiferromagnetic spin fluctuations in iron pnictide superconductors
-  image: Pub_FP.png
-  description:
-    Both the density of states and the QPI dispersion of LiFeAs shows signatures of electron-boson coupling. Comparing these with fingerprints of different boson couplings to conclude that these signatures stem from AF spin fluctuations.
-  authors:
-    MP Allan* & Kyungmin Lee* & AW Rost*, MH Fischer, F Massee, K Kihou, C-H Lee, A Iyo, H Eisaki, T-M Chuang, AP Mackenzie, JC Davis, DJ Scalapino, E-A Kim
-  link:
-    url: http://www.nature.com/nphys/journal/v11/n2/full/nphys3187.html
-    display: Nature Physics 11, 177 (2015)
-  highlight: 1
-  news1:
-  news2: See also <a href="http://www.news.cornell.edu/stories/2015/01/high-temperature-superconductor-fingerprint-found"> Cornell Chronicle </a> by Anne Ju, <a href="http://phys.org/news/2015-01-high-temperature-superconductor-fingerprint.html"> Phys.org </a>
-
-- title: Direct evidence for a magnetic f-electron mediated Cooper pairing mechanism of heavy fermion superconductivity in CeCoIn5
-  image: dummy.png
-  description: ""
-  authors:
-    J Van Dyke, F Massee, MP Allan, JC Davis, C Petrovic, and DK Morr
-  link:
-    url: http://www.pnas.org/content/111/32/11663
-    display: PNAS 111, 11663 (2014)
-  highlight: 0
-  news1: <a style="color:#FF0000; text-decoration:underline" href="http://science.sciencemag.org/content/345/6203/twil">News item in Science</a>
-  news2:
-
-- title: Imaging Cooper pairing of heavy fermions in CeCoIn5
-  image: Pub_CeCoIn5.png
-  description:
-    The heavy Fermion superconductor CeCoIn5 has a d-wave gap with nodes along the (1,1) direction, as we find using QPI.
-  authors:
-    MP Allan* & F Massee*, DK Morr, J van Dyke, AW Rost, AP Mackenzie, C Petrovic, JC Davis
-  link:
-    url: http://www.nature.com/nphys/journal/vaop/ncurrent/abs/nphys2671.html
-    display: Nature Physics 9, 468 (2013)
-  highlight: 1
-  news1: <a style="color:#FF0000; text-decoration:underline" href="http://www.nature.com/nphys/journal/v9/n8/full/nphys2708.html">Featured in 'News and Views' by L Taillefer</a>
-  news2: See also <a href="http://phys.org/news/2013-07-imaging-electron-pairing-simple-magnetic.html"> Phys.org</a>, <a href="http://davisgroup.lassp.cornell.edu/CeCoIn5_DoE.html">DoE headliner</a>
-
-- title: Formation of heavy d-electron quasiparticles in Sr3Ru2O7
-  image: Pub_327.png
-  description:
-    Using APRES, we find that the bands in Sr3Ru2O7 look more like in heavy fermion material than in a normal metal. We present a detailed investigation into the formation of this particular electronic  structure.
-  authors:
-    MP Allan, A Tamai, E Rozbicki, MH Fischer, J Voss, PDC King, W Meevasana, S Thirupathaiah, E Rienks, J Fink, A Tennant, RS Perry, JF Mercure, MA Wang, J Lee, CJ Fennie, E-A Kim, MJ Lawler, KM Shen, AP Mackenzie, Z-X Shen, F Baumberger
-  link:
-    url: http://iopscience.iop.org/1367-2630/15/6/063029
-    display: New Journal of Physics 15, 063029 (2013)
-  highlight: 1
-  news: <a style="color:#FF0000; text-decoration:underline" href="http://iopscience.iop.org/1367-2630/15/6/063029"> Video abstract available</a>
-
-- title: Anisotropic impurity states, quasiparticle scattering and nematic transport in underdoped Ca(Fe1−xCox)2As2
-  image: Pub_nemat2b.png
-  description:
-    We elucidate on the formation of the electronic nematic state in Co-CaFe2As2, finding that the Cobalt dopant atoms play a key role.
-  authors:
-    MP Allan, T-M Chuang, F Massee, Y Xie, N Ni, SL Bud’ko, GS Boebinger, Q Wang, DS Dessau, PC Canfield, MS Golden, JC Davis
-  highlight: 1
-  link:
-    url: http://www.nature.com/nphys/journal/v9/n4/full/nphys2544.html
-    display: Nature Physics 9, 220 (2013)
-  news2: See also <a href="http://www.techconnect.org/news/entry.html?id=243"> Tech Connect </a> by Jennifer Rocha, <a href="http://phys.org/news/2013-02-iron-based-superconductor-advances-theory.html"> Phys.org</a> by Bill Steele
-
-- title: Anisotropic energy gaps of iron-based superconductivity from intraband quasiparticle interference in LiFeAs
-  image: Pub_LiFeAs.png
-  description:
-    In contrast to earlier photoemission reports, we show that the gaps in iron based superconductors are not isotropic but modulated with angle.
-  authors:
-    MP Allan⋆ & AW Rost⋆, AP Mackenzie, Y Xie, JC Davis, K Kihou, CH Lee, A Iyo, H Eisaki, T-M Chuang
-  link:
-    url: http://www.sciencemag.org/content/336/6081/563
-    display: Science 336, 563 (2012)
-  highlight: 1
-  news2: See also <a href="http://www.news.cornell.edu/stories/2012/05/new-clues-how-iron-superconductors-work"> Cornell Cornincle </a> by Bill Steele, <a href="http://www.eurekalert.org/pub_releases/2012-05/dnl-avo050312.php"> Eureka Alert </a>
-
-- title: How Kondo-holes create intense nanoscale heavy-fermion hybridization disorder
-  image: dummy.png
-  description: ""
-  authors: MH Hamidian, AR Schmidt, IA Firmo, MP Allan, P Bradley, JD Garrett, TJ Williams, GM Luke, Y Dubi, AV Balatsky, JC Davis
-  link:
-    url: http://www.pnas.org/content/108/45/18233
-    display:  PNAS 108, 18233 (2011)
-  highlight: 0
-  news2:
-
-- title: Nematic electronic structure in the “parent” state of the iron-based superconductor Ca(Fe1−xCox)2As2
-  image: Pub_nemat1.png
-  description:
-    We discovered an electronic nematic in the iron based superconductor Co-CaFe2As2! This state is by now confirmed and quite well characterized  by transport, photoemission, and more SI-STM experiments.
-  authors:
-    T-M Chuang* & MP Allan*, J Lee, Y Xie, N Ni, SL Bud’ko, GS Boebinger PC Canfield, JC Davis
-  link:
-    url: http://www.sciencemag.org/content/327/5962/181
-    display: Science 327, 181 (2010)
-  highlight: 1
-  news1: <a style="color:#FF0000" href="http://www.sciencemag.org/content/327/5962/155"> Featured in a ‘Perspective’ by E Fradkin &amp; SA Kivelson</a>
-  news2: See also <a  href="https://www.newscientist.com/article/dn18354-electron-spotting-could-explain-warm-superconductors/">Article on NewScientist</a> by Colin Barras
-
-- title: Heavy d-electron quasiparticle interference and real-space electronic structure of Sr3Ru2O7
-  image: Pub_hBN.png
-  description:
-    QPI in Sr327.
-  authors: Jinho Lee* & M. P. Allan*, M. A.Wang, J. Farrell, S. A. Grigera, F. Baumberger, J. C. Davis and A. P. Mackenzie
-  link:
-    url: https://www.nature.com/nphys/journal/v5/n11/full/nphys1397.html
-    display: Nature Physics 5, 800 (2009)
-  highlight: 0
-
-- title: Fermi surface and van Hove singularities in the itinerant metamagnet Sr3Ru2O7
-  image: Pub_hBN.png
-  description:
-    We determine the Fermi surface of Sr327.
-  authors:
-    A Tamai, MP Allan, JF Mercure, W Meevasana, R Dunkel, DH Lu, RS Perry, AP Mackenzie, David J Singh, Z-X Shen, F Baumberger
-  link:
-    url: http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.101.026407
-    display: Phys. Rev. Lett. 101, 026407 (2008)
-  highlight: 0
-
-- title: Tunable  self-assembly of one-dimensional nanostructures with orthogonal directions
-  image: Pub_hBN.png
-  description:
-    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
-  authors:
-    MP Allan, S Berner, M Corso, T Greber, J Osterwalder
-  link:
-    url: http://www.nanoscalereslett.com/content/2/2/94
-    display: Nanoscale Research Letters 2, 94 (2007)
-  highlight: 1
-
-- title: Photoelectron Diffraction for a Look inside Nanostructures
-  image: dummy.png
-  description: ""
-  authors:
-    J Osterwalder, A Tamai, W Auwärter; MP Allan, T Greber
-  link:
-    url: hhttp://www.ingentaconnect.com/content/scs/chimia/2006/00000060/00000011/art00013
-    display: CHIMIA 11, 759 (2006)
+    url: https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0001376
+    display: PLoS Negl Trop Dis. 2011 Nov;5(11):e1376
   highlight: 0

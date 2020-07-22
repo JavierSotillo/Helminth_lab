@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "The Molecular Helminthology Lab - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "The Molecular Helminthology Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Highlights
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+(For a full list see [below](#full-list) or go to Chus Perteguer [ORCID](https://orcid.org/0000-0002-7533-5134) or to Javier Sotillo [Google Scholar](https://scholar.google.es/citations?user=vsddMZcAAAAJ&hl=es&authuser=1), or [ORCID](https://orcid.org/0000-0002-1443-7233))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}

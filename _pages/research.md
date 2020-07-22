@@ -1,25 +1,22 @@
 ---
-title: "Allan Lab - Research"
+title: "Molecular Helminthology Lab - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "Molecular Helminthology Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
 
 # Research
 
-Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
-
-Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? 
+Our main goals are to develop novel diagnostic and control measures against helminth infections as well as to characterize the immunomodulatory effects of nematodes. For this, we use different proteomic, transcriptomic and other molecular biology approaches to understand host-parasite interactions.
  
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/ResPic_1.jpg){: style="width: 300px; float: right; border: 10px"}
 
-Currently, our instrument of choice  is SI-STM.  State-of-the-art SI-STM measures an array of tunneling spectra on a given sample, registered to the atomic sites with picometer precision. Each is proportional to the local density of states at a given location. Ideally, the recorded spectra are so tightly packed that the measurement yields a three-dimensional mapping of the local density of states as a function of locations and energy. This is shown on the image on the right-hand side (10x10 nm2), and its Fourier transform, below.
+One of our main goals is to develop multianalytical and multiplexed approaches for the diagnosis of some of the most important human helminthiases. We start from the characterization of the most immunogenic proteins that can serve as good diagnostic candidates, express the recombinantly and employ different technologies to validate them.
 
-The quantum materials which we will investigate encapsulate some of the great unsolved mysteries of physics. They include high-temperature superconductors, quantum-critical compounds, graphene, and topological electronic matter that can be used for error-resistant quantum computing.
+We also work in the development of effective vaccines against these neglected tropical diseases. For this, we have different animal models that mimic the infection of some of the most important human helminthiases. We employ gene editing techniques to delete genes coding for candidate proteins and study the infection, establishment and survival of the parasite in the host. We also apply reverse vaccinology approaches to select vaccine candidates that we, then, validate in our lab and in collaboration with other researchers. 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_fft.jpg){: style="width: 300px; float: left; border: 10px"}
 
-A main goal is to use modern technology to build the new instrumentation needed to understand these quantum materials. I learned my trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where we investigated coupled cavity arrays in circuit QED. This allowed me to learn new techniques such as high frequency measurements, low temperature noise-free amplification, and quantum-limited measurements. The goal is to combine these with SI-STM.
 
-This will enable the instrumental capabilities to visualize the different quantum mechanical degrees of freedom needed to understand next-generation quantum materials. STM will be the main method, but we use different spectroscopic-imaging techniques to visualize not only the topography, but also the density of states, spins, and other degrees of freedom hidden below the surface.
+Finally, with the incorporation of new members to the lab, we are opening other research lines such as the study and characterization of the immunomodulatory properties from nematodes. We focus on the extracellular vesicles and their content (i.e. proteins and miRNA) to analyze how nematodes can modulate their host's immune response to their own benefit and how we can harness this to combat autoimmune diseases.

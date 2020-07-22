@@ -1,0 +1,34 @@
+I"|<h4 id="timelapse">Timelapse:</h4>
+<iframe width="560" height="315" src="" frameborder="0" allowfullscreen=""></iframe>
+
+<h4 id="gallery">Gallery</h4>
+<p>(Right-click <em>‘view image’</em> to see a larger image.)</p>
+
+<div class="row">
+
+  <div class="col-sm-3 clearfix">
+    <p><img src="http://localhost:4000/images/picpic/Gallery/Comida_SOCEPA.JPG" class="img-responsive" width="95%" style="float: left" /></p>
+  </div>
+
+  <div class="col-sm-3 clearfix">
+    <p><img src="http://localhost:4000/images/picpic/Gallery/Semtsi_group.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+  </div>
+
+  <div class="col-sm-3 clearfix">
+    <p><img src="http://localhost:4000/images/picpic/Gallery/Semtsi_group_2.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+  </div>
+
+  <div class="col-sm-3 clearfix">
+    <p><img src="http://localhost:4000/images/picpic/Gallery/Semtsi_group_3.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+  </div>
+
+</div>
+
+<p>   </p>
+
+<p>First advertisement.</p>
+<figure>
+  <p><img src="http://localhost:4000/images/picpic/WebpageLeiden_red.jpg" width="60%" /></p>
+</figure>
+
+:ET

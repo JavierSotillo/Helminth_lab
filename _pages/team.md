@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Team"
+title: "Molecular Helminthology Lab - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "Molecular Helminthology Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
@@ -10,8 +10,6 @@ permalink: /team/
 
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
-
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
 
 ## Staff
 {% assign number_printed = 0 %}
@@ -89,8 +87,8 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 <div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -146,7 +144,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}<br>email: <{{ member.email }}></i>
+  <i>{{ member.duration }} <br> Role: {{ member.info }}<br></i>
   <ul style="overflow: hidden">
 
   </ul>
@@ -173,51 +171,86 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
     <th>Bachelor Students</th>
   </tr>
   <tr>
-    <td>Nikolaos Iliopoulos, Spring 2016</td>
-    <td>Bert Visscher, Fall 2017</td>
-    <td>Vishnu Saj, Spring 2017</td>
+    <td>David Becerro Recio, 2020</td>
+    <td>Laura Urrea del Corral, 2017</td>
+    <td>María Cisneros, 2020</td>
   </tr>
   <tr>
-    <td>Vitaly Fedoseev, all of 2016</td>
-    <td>Ahmad Jamalzada, Fall 2017</td>
-    <td>Joey Braspenning, Spring 2017</td>
+    <td>Mona Mahmoud, 2019</td>
+    <td>Silvia de Pablos Llorente, 2016</td>
+    <td>Jesús Martín Bartolomé, 2019</td>
   </tr>
   <tr>
-    <td>Ramakrishna Aluru, Summer 2018</td>
-    <td>Tjerk Benschop, Summer 2017</td>
-    <td>Margot Leemker, Spring 2017</td>
-  </tr>
-  <tr>
-    <td>Changwei Zou, Spring 2018</td>
-    <td>Oliver Ostojic, Spring 2016</td>
-    <td>Sietske Lensen, Spring 2017</td>
+    <td>Sandra Gómez Fuentes, 2014</td>
+    <td>Ana Trujillo del Rio, 2016</td>
+    <td>Sergio González Acosta, 2014</td>
   </tr>
   <tr>
     <td></td>
-    <td>Farshaad Hoeseni, Fall 2015</td>
-    <td>Alexander Vanstone, Spring 2016</td>
-  </tr>
-  <tr>
-    <td>Kemal Demir, Summer 2019</td>
-    <td>Corne Koks, Fall 2018</td>
-    <td>Tjerk Benschop, Spring 2016</td>
+    <td>José Ignacio Fernández Velasco, 2014</td>
+    <td></td>
   </tr>
   <tr>
     <td></td>
-    <td>Damian Bouwmeester, Summer 2019</td>
-    <td>Arjo Andringa, Spring 2016</td>
+    <td>Elena Charro González, 2014</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Luciana Rosalía Vaccaro Muñoz, 2012</td>
+    <td></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>Daniëlle van Klink, Spring 2016</td>
+    <td></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>Amber Vervloet, Spring 2019</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
+## <i>In memoriam</i>
+
+{% assign number_printed = 0 %}
+{% for member in site.data.in_memoriam %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.duration }} <br> Role: {{ member.info }}<br></i>
+  <ul style="overflow: hidden">
+
+  </ul>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+
+
 ## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
+<a href="mailto:alicia.fernandez@isciii.es">Alicia Fernández</a> is helping us (and other groups) with administration.

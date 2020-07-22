@@ -6,6 +6,9 @@ sitemap: false
 permalink: /aboutwebsite.html
 ---
 
+# This website has been adapted from The Allan Lab web
+This website has been adapted from [The Allan Lab website](https://www.allanlab.org/). Please note that they released this code under the MIT license. Thanks Allan for making this code free and open!
+
 # Use this website as a template for your academic research group
 
 This website is powered by [Jekyll](https://jekyllrb.com) and uses some [Bootstrap](http://www.getbootstrap.com) and  [Bootswatch](http://www.bootswatch.com). We tried to make it simple yet adaptable, so that it is easy for you to re-use it for your purpose. 
@@ -40,11 +43,10 @@ As said, [Jekyll](https://jekyllrb.com) takes all the markdown and data files, a
 
 ### Copyright / credit
 
-You can use this template as you please. You don't have to link to us or mention us (but of course we appreciate it). We also welcome it if you send us an email with a link to your website, perhaps we'll publish a list here at some point. 
+You can use this template as you please. Please, go to The Allan Lab GitHub and fork it.  You don't have to link to The Allan Lab or mention them, but they will appreciate it.
 
 Comments welcome.
 
-Code released under the MIT License. 
 
 
 
