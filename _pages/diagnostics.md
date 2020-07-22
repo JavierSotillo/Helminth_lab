@@ -18,7 +18,7 @@ In alignment with the Instituto de Salud Carlos III main goals, we provide diagn
 - <i>Onchocerca volvulus</i>
 - <i>Trichinella</i> spp.
 - <i>Fasciola hepatica</i>
-- <i>Trichinella</i> spp.
+
 
 
 We are developing more assays that will be incorporated into our service portfolio soon.
