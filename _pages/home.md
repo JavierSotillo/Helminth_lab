@@ -64,7 +64,7 @@ We are located at Centro Nacional de Microbiología at the Majadahonda campus, w
 We are grateful for funding from Acción Estratégica de Salud Intramural from [ISCIII](https://eng.isciii.es/eng.isciii.es/Paginas/Inicio.html), from [Red de Investigación Cooperativa en Enfermedades Tropicales](https://www.ricet.es/), anf from and the Youth Employment Initiative (YEI) from the UE and the [CAM](http://www.bocm.es/boletin/CM_Orden_BOCM/2019/06/11/BOCM-20190611-17.PDF)
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logoisciii_grande.jpg" style="width: 80px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/RICET.png" style="width: 150px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/CAM.jpg" style="width: 75px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logoisciii_grande.jpg" style="width: 80px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/RICET.png" style="width: 150px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/CAM.jpg" style="width: 75px">
 </figure>
