@@ -65,9 +65,6 @@ We are grateful for funding from Acción Estratégica de Salud Intramural from [
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logoisciii_grande.jpg" style="width: 80px">
-  
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/RICET.png" style="width: 150px">
-  
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/CAM.jpg" style="width: 75px">
-
 </figure>
